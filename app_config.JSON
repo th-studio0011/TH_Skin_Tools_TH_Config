@@ -1,0 +1,176 @@
+{
+  "ads_config": {
+    "enable": true,
+    "interval": 30
+  },
+  "ad_units": {
+    "full_splash": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "7a692a5f9ffa9d48"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "open_home_main": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/5822764281",
+          "enable": false
+        }
+      ]
+    },
+    "full_main_item": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "166c608b4d044bf1"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_main": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/6414661730"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_download": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "f3618e7a8df06361"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_category": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "4d34975068b9e713"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_detail": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "40f1d8d523937b47"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_mod_skin": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "979e7c047bebc766"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "banner_list": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "c4148eaec3e6d156"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_item": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "d858b2dc00879830",
+          "enable": false
+        }
+      ]
+    },
+    "full_mod_more": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "d2a50dddacd14afc"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "reward_item": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "e0e234404cd7dc8d"
+        }
+      ]
+    },
+    "full_main_ff": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "efb97d56195c1b58"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_main_ff_max": {
+      "units": [
+        {
+          "ad_network": "max",
+          "ad_unit": "880a0f026b551494"
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    }
+  },
+  "app_version_config": {
+    "last_version": "2.6",
+    "force_update": false,
+    "new_feature": "In new version we provide PREMIUM package and fix all bug from previous version."
+  },
+  "recommendation_apps": [
+    {
+      "app_name": "Skin Tools for FF & FF MAX",
+      "package_name": "com.gmt.ff.tool.free",
+      "short_des": "Elite pass bundles, skin, enemy detection for both FF MAX and FF is waiting for you. \nTry it free now !.",
+      "icon": "https://play-lh.googleusercontent.com/fVronV46I-lIxADIbcG7IzTzwOoj_y9p0J-LU6J-YATnr_GJKmsCR3SNXW88P6sIcQ=s180-rw",
+      "cover": "https://play-lh.googleusercontent.com/OfE3P-gxH2GB4REXO-2yTMaxkQszqc4lgGB9kebKlSc0TP6PZxbDfeNb0hwUjKv8p_Et"
+    },
+    {
+      "app_name": "iNote iOS 14 - Notes for iPhone 12",
+      "package_name": "com.thstudio.note.iphone.inote",
+      "short_des": "Powerful & best effective Notepad, Notes for iPhone 12",
+      "icon": "https://play-lh.googleusercontent.com/_LVUnH-TVSd9UQ2BE73vPfHZY7Lj4otApKY532ZBUtYnsRvaaKzWg8u32Ld22G6_IS4_=s180-rw",
+      "cover": "https://play-lh.googleusercontent.com/HHW_FKN0gvfhda9JCzuQs03IoSKJxMOipB5S_iyLsJBN3Ypi-KQGHHWe9GlwB5pQmVay"
+    }
+  ]
+}
