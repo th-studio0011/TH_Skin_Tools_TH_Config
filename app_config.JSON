@@ -71,8 +71,8 @@
     "native_detail": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "40f1d8d523937b47"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/5743899278"
         },
         {
           "ad_network": "startio"
