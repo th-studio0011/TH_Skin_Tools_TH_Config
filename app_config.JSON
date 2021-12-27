@@ -49,8 +49,8 @@
     "native_download": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "f3618e7a8df06361"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/2634574103"
         },
         {
           "ad_network": "startio"
@@ -60,8 +60,8 @@
     "native_category": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "4d34975068b9e713"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/9507104218"
         },
         {
           "ad_network": "startio"
