@@ -27,8 +27,8 @@
     "full_main_item": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "166c608b4d044bf1"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/3698128351"
         },
         {
           "ad_network": "startio"
