@@ -82,8 +82,8 @@
     "full_mod_skin": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "979e7c047bebc766"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/4403084794"
         },
         {
           "ad_network": "startio"
@@ -132,8 +132,8 @@
     "full_main_ff": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "efb97d56195c1b58"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/3698128351"
         },
         {
           "ad_network": "startio"
@@ -143,8 +143,8 @@
     "full_main_ff_max": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "880a0f026b551494"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/3698128351"
         },
         {
           "ad_network": "startio"
