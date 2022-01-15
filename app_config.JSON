@@ -124,6 +124,10 @@
     "reward_item": {
       "units": [
         {
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/7822313417"
+        },
+        {
           "ad_network": "max",
           "ad_unit": "e0e234404cd7dc8d"
         }
