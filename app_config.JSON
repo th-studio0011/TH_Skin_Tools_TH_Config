@@ -93,8 +93,8 @@
     "banner_list": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "c4148eaec3e6d156"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/4454887819"
         },
         {
           "ad_network": "startio"
@@ -113,8 +113,8 @@
     "full_mod_more": {
       "units": [
         {
-          "ad_network": "max",
-          "ad_unit": "d2a50dddacd14afc"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-1266329057696784/2981830528"
         },
         {
           "ad_network": "startio"
