@@ -19,8 +19,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/5822764281",
-          "enable": false
+          "ad_unit": "ca-app-pub-1266329057696784/2970146258"
         }
       ]
     },
@@ -157,7 +156,7 @@
     }
   },
   "app_version_config": {
-    "last_version": "2.6",
+    "last_version": "2.2",
     "force_update": false,
     "new_feature": "In new version we provide PREMIUM package and fix all bug from previous version."
   },
