@@ -162,6 +162,13 @@
   },
   "recommendation_apps": [
     {
+      "app_name": "Mod grenade, emote, fist, weapon and more.",
+      "package_name": "com.hadu.ff.skin.tools.pro.free",
+      "short_des": "This new application provides grenade, emote, gun and many other skins",
+      "icon": "https://play-lh.googleusercontent.com/2XVFVwTuCRTlPu1q1eOkUk6NoGuoW9sJCTK0lqD13FvAljvKhTW6HFX_alFNuCeOnFg=s360-rw",
+      "cover": "https://play-lh.googleusercontent.com/_zEDVsb6ynJRRE9WBSrMitVQUlishuYABva0380zlBdXU_Lc_jdelT-kEORKz0CTKs4"
+    },
+    {
       "app_name": "Skin Tools for FF & FF MAX",
       "package_name": "com.gmt.ff.tool.free",
       "short_des": "Elite pass bundles, skin, enemy detection for both FF MAX and FF is waiting for you. \nTry it free now !.",
