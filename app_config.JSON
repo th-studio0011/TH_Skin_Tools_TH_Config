@@ -15,20 +15,8 @@
         }
       ]
     },
-    "open_home_main": {
-      "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/2970146258"
-        }
-      ]
-    },
     "full_main_item": {
       "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/3698128351"
-        },
         {
           "ad_network": "startio"
         }
@@ -37,20 +25,12 @@
     "native_main": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/6414661730"
-        },
-        {
           "ad_network": "startio"
         }
       ]
     },
     "native_download": {
       "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/2634574103"
-        },
         {
           "ad_network": "startio"
         }
@@ -59,20 +39,12 @@
     "native_category": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/9507104218"
-        },
-        {
           "ad_network": "startio"
         }
       ]
     },
     "native_detail": {
       "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/5743899278"
-        },
         {
           "ad_network": "startio"
         }
@@ -81,20 +53,12 @@
     "full_mod_skin": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/4403084794"
-        },
-        {
           "ad_network": "startio"
         }
       ]
     },
     "banner_list": {
       "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/4454887819"
-        },
         {
           "ad_network": "startio"
         }
@@ -112,20 +76,12 @@
     "full_mod_more": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/2981830528"
-        },
-        {
           "ad_network": "startio"
         }
       ]
     },
     "reward_item": {
       "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/7822313417"
-        },
         {
           "ad_network": "max",
           "ad_unit": "e0e234404cd7dc8d"
@@ -135,20 +91,12 @@
     "full_main_ff": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/3698128351"
-        },
-        {
           "ad_network": "startio"
         }
       ]
     },
     "full_main_ff_max": {
       "units": [
-        {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-1266329057696784/3698128351"
-        },
         {
           "ad_network": "startio"
         }
